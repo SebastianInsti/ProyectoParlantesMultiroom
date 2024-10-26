@@ -1,0 +1,26 @@
+{
+    "camaras": [
+        {
+            "nombre": "habitacion_1",
+            "ip": "192.168.1.101",
+            "indice": 0
+        },
+        {
+            "nombre": "habitacion_2",
+            "ip": "192.168.1.102",
+            "indice": 1
+        }
+    ],
+    "parlantes": [
+        {
+            "nombre": "parlante_habitacion_1",
+            "ip": "192.168.1.201",
+            "volumen_inicial": 30
+        },
+        {
+            "nombre": "parlante_habitacion_2",
+            "ip": "192.168.1.202",
+            "volumen_inicial": 30
+        }
+    ]
+}
